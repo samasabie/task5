@@ -1,0 +1,14 @@
+.services{
+    background-color: darkgray;
+    text-align: center;
+}
+p{
+    color:teal
+}
+
+.service{
+    display: inline-block;
+    width: 24%;
+    background-color: azure;
+
+}
